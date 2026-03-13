@@ -4,11 +4,11 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 1 | Two Sum | Find two numbers that add up to target | | |
+| 1 | Two Sum | Find two numbers that add up to target | Y | |
 | 15 | 3Sum | Find all unique triplets that sum to zero | | |
 | 41 | First Missing Positive | Find smallest missing positive integer | | |
 | 42 | Trapping Rain Water | Calculate water trapped between bars | | |
-| 49 | Group Anagrams | Group strings that are anagrams | | |
+| 49 | Group Anagrams | Group strings that are anagrams | Y | |
 | 128 | Longest Consecutive Sequence | Find longest consecutive elements sequence | | |
 | 238 | Product of Array Except Self | Product of all elements except self | | |
 | 560 | Subarray Sum Equals K | Count subarrays with sum equal to k | Y | |
@@ -37,7 +37,7 @@
 | 23 | Merge k Sorted Lists | Merge k sorted linked lists | | |
 | 25 | Reverse Nodes in k-Group | Reverse list in groups of k | | |
 | 146 | LRU Cache | Design least recently used cache | Y | |
-| 206 | Reverse Linked List | Reverse a singly linked list | | |
+| 206 | Reverse Linked List | Reverse a singly linked list | Y | |
 
 ## Trees
 
