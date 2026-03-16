@@ -36,6 +36,7 @@
 | 21 | Merge Two Sorted Lists | Merge two sorted linked lists | | |
 | 23 | Merge k Sorted Lists | Merge k sorted linked lists | | |
 | 25 | Reverse Nodes in k-Group | Reverse list in groups of k | | |
+| 141 | Linked List Cycle | Detect if linked list has a cycle | | |
 | 146 | LRU Cache | Design least recently used cache | Y | |
 | 206 | Reverse Linked List | Reverse a singly linked list | Y | |
 
