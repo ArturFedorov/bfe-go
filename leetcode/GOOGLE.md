@@ -10,7 +10,7 @@
 | 42 | Trapping Rain Water | Calculate water trapped between bars | | |
 | 49 | Group Anagrams | Group strings that are anagrams | Y | |
 | 128 | Longest Consecutive Sequence | Find longest consecutive elements sequence | | |
-| 238 | Product of Array Except Self | Product of all elements except self | | |
+| 238 | Product of Array Except Self | Product of all elements except self | Y | |
 | 560 | Subarray Sum Equals K | Count subarrays with sum equal to k | Y | |
 | 974 | Subarray Sums Divisible by K | Count subarrays with sum divisible by k | Y | |
 | 904 | Fruit Into Baskets | Max fruits with two types (sliding window) | | |
@@ -20,9 +20,9 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 3 | Longest Substring Without Repeating Characters | Longest substring with unique chars | | |
-| 5 | Longest Palindromic Substring | Find longest palindromic substring | | |
+| 5 | Longest Palindromic Substring | Find longest palindromic substring | Y | |
 | 17 | Letter Combinations of a Phone Number | All letter combos from phone digits | | |
-| 20 | Valid Parentheses | Check if brackets are balanced | | |
+| 20 | Valid Parentheses | Check if brackets are balanced | Y | |
 | 76 | Minimum Window Substring | Smallest window containing all chars | | |
 | 409 | Longest Palindrome | Longest palindrome from given letters | | |
 | 438 | Find All Anagrams in a String | Find all anagram start indices | | |
@@ -32,11 +32,11 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 2 | Add Two Numbers | Add two numbers as linked lists | | |
-| 21 | Merge Two Sorted Lists | Merge two sorted linked lists | | |
-| 23 | Merge k Sorted Lists | Merge k sorted linked lists | | |
-| 25 | Reverse Nodes in k-Group | Reverse list in groups of k | | |
-| 141 | Linked List Cycle | Detect if linked list has a cycle | | |
+| 2 | Add Two Numbers | Add two numbers as linked lists | Y | |
+| 21 | Merge Two Sorted Lists | Merge two sorted linked lists | Y | |
+| 23 | Merge k Sorted Lists | Merge k sorted linked lists | Y | |
+| 25 | Reverse Nodes in k-Group | Reverse list in groups of k | Y | |
+| 141 | Linked List Cycle | Detect if linked list has a cycle | Y | |
 | 146 | LRU Cache | Design least recently used cache | Y | |
 | 206 | Reverse Linked List | Reverse a singly linked list | Y | |
 
@@ -101,7 +101,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 146 | LRU Cache | Design least recently used cache | Y | |
-| 155 | Min Stack | Stack with O(1) getMin | | |
+| 155 | Min Stack | Stack with O(1) getMin | Y | |
 | 295 | Find Median from Data Stream | Median in a stream of numbers | | |
 | 341 | Flatten Nested List Iterator | Iterator for nested integer list | | |
 | 359 | Logger Rate Limiter | Rate limit log messages | | |
@@ -134,7 +134,7 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 23 | Merge k Sorted Lists | Merge k lists using heap | | |
+| 23 | Merge k Sorted Lists | Merge k lists using heap | Y | |
 | 295 | Find Median from Data Stream | Two heaps for running median | | |
 | 347 | Top K Frequent Elements | K most frequent elements | | |
 | 621 | Task Scheduler | Min intervals to finish tasks | | |
