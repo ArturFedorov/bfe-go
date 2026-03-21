@@ -13,7 +13,7 @@ func (s *MinStack) Push(val int) {
 	if s.top == -1 {
 		s.min = append(s.min, val)
 	} else {
-		s.min = append(s.min, min(val, s.min[s.top]))
+		s.min = append(s.min, minVal(val, s.min[s.top]))
 	}
 
 	s.stack = append(s.stack, val)

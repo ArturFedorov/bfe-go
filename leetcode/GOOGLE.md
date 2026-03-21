@@ -106,7 +106,7 @@
 | 341 | Flatten Nested List Iterator | Iterator for nested integer list | | |
 | 359 | Logger Rate Limiter | Rate limit log messages | | |
 | 362 | Design Hit Counter | Count hits in past 5 minutes | | |
-| 380 | Insert Delete GetRandom O(1) | Randomized set operations | | |
+| 380 | Insert Delete GetRandom O(1) | Randomized set operations | Y | |
 | 588 | Design In-Memory File System | Simulate a file system | | |
 | 642 | Design Search Autocomplete System | Autocomplete with history | | |
 | 703 | Kth Largest Element in a Stream | Maintain kth largest in stream | | |
