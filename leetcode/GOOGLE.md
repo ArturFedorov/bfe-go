@@ -109,7 +109,7 @@
 | 380 | Insert Delete GetRandom O(1) | Randomized set operations | Y | |
 | 588 | Design In-Memory File System | Simulate a file system | | |
 | 642 | Design Search Autocomplete System | Autocomplete with history | | |
-| 703 | Kth Largest Element in a Stream | Maintain kth largest in stream | | |
+| 703 | Kth Largest Element in a Stream | Maintain kth largest in stream | Y | |
 
 ## Intervals & Sorting
 
@@ -138,6 +138,7 @@
 | 295 | Find Median from Data Stream | Two heaps for running median | | |
 | 347 | Top K Frequent Elements | K most frequent elements | | |
 | 621 | Task Scheduler | Min intervals to finish tasks | | |
+| 703 | Kth Largest Element in a Stream | Maintain kth largest using min-heap | Y | |
 | 857 | Minimum Cost to Hire K Workers | Min cost for k workers | | |
 
 ## Trie
