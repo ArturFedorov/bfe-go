@@ -50,7 +50,7 @@
 | 199 | Binary Tree Right Side View | Nodes visible from right side | | |
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
 | 235 | Lowest Common Ancestor of a BST | Find LCA in BST | | |
-| 236 | Lowest Common Ancestor of a Binary Tree | Find LCA in binary tree | | |
+| 236 | Lowest Common Ancestor of a Binary Tree | Find LCA in binary tree | Y | |
 | 297 | Serialize and Deserialize Binary Tree | Encode/decode binary tree | | |
 | 543 | Diameter of Binary Tree | Longest path between any two nodes | | |
 | 951 | Flip Equivalent Binary Trees | Check if trees are flip equivalent | | |
