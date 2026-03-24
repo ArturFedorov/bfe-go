@@ -7,5 +7,25 @@ type TreeNode struct {
 }
 
 func diameterOfBinaryTree(root *TreeNode) int {
-	return 0
+	diameter := 0
+
+	var dfs func(node *TreeNode) int
+	dfs = func(node *TreeNode) int {
+		if node == nil {
+			return 0
+		}
+
+		leftHeight := dfs(node.Left)
+		rightHeight := dfs(node.Right)
+
+		if leftHeight+rightHeight > diameter {
+			diameter = leftHeight + rightHeight
+		}
+
+		return 1 + max(leftHeight, rightHeight)
+	}
+
+	dfs(root)
+
+	return diameter
 }
