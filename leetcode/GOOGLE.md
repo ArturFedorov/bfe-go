@@ -62,7 +62,7 @@
 | 127 | Word Ladder | Shortest transformation sequence | | |
 | 133 | Clone Graph | Deep copy a graph | | |
 | 200 | Number of Islands | Count islands in a grid | | |
-| 207 | Course Schedule | Detect cycle in directed graph | | |
+| 207 | Course Schedule | Detect cycle in directed graph | Y | |
 | 210 | Course Schedule II | Topological sort of courses | | |
 | 269 | Alien Dictionary | Derive order of alien alphabet | | |
 | 399 | Evaluate Division | Graph-based division queries | | |
@@ -110,6 +110,7 @@
 | 588 | Design In-Memory File System | Simulate a file system | | |
 | 642 | Design Search Autocomplete System | Autocomplete with history | | |
 | 703 | Kth Largest Element in a Stream | Maintain kth largest in stream | Y | |
+| 706 | Design HashMap | Design a HashMap without built-in hash libraries | Y | |
 
 ## Intervals & Sorting
 
