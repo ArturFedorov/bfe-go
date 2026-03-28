@@ -60,7 +60,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 127 | Word Ladder | Shortest transformation sequence | | |
-| 133 | Clone Graph | Deep copy a graph | | |
+| 133 | Clone Graph | Deep copy a graph | Y | |
 | 200 | Number of Islands | Count islands in a grid | | |
 | 207 | Course Schedule | Detect cycle in directed graph | Y | |
 | 210 | Course Schedule II | Topological sort of courses | | |
