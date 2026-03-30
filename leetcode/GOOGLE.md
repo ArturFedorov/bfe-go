@@ -67,7 +67,7 @@
 | 269 | Alien Dictionary | Derive order of alien alphabet | | |
 | 399 | Evaluate Division | Graph-based division queries | | |
 | 684 | Redundant Connection | Find edge that creates cycle | | |
-| 743 | Network Delay Time | Shortest path in weighted graph | | |
+| 743 | Network Delay Time | Shortest path in weighted graph | Y | |
 
 ## Dynamic Programming
 
