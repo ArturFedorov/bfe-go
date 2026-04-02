@@ -63,7 +63,7 @@
 | 133 | Clone Graph | Deep copy a graph | Y | |
 | 200 | Number of Islands | Count islands in a grid | | |
 | 207 | Course Schedule | Detect cycle in directed graph | Y | |
-| 210 | Course Schedule II | Topological sort of courses | | |
+| 210 | Course Schedule II | Topological sort of courses | Y | |
 | 269 | Alien Dictionary | Derive order of alien alphabet | | |
 | 399 | Evaluate Division | Graph-based division queries | | |
 | 684 | Redundant Connection | Find edge that creates cycle | | |
