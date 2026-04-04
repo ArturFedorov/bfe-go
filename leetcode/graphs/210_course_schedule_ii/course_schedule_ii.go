@@ -1,6 +1,6 @@
 package course_schedule_ii
 
-func topologicalSortBFS(adj map[int][]int, numCourses int, inDegree []int) []int {
+func topologicalSortBFS(adj map[int][]int, inDegree []int) []int {
 	res := make([]int, 0)
 	queue := make([]int, 0)
 
@@ -38,7 +38,7 @@ func findOrder(numCourses int, prerequisites [][]int) []int {
 		inDegree[v]++
 	}
 
-	res := topologicalSortBFS(adj, numCourses, inDegree)
+	res := topologicalSortBFS(adj, inDegree)
 
 	if len(res) != numCourses {
 		return nil
