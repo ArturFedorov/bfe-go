@@ -66,7 +66,7 @@
 | 210 | Course Schedule II | Topological sort of courses | Y | |
 | 269 | Alien Dictionary | Derive order of alien alphabet | | |
 | 399 | Evaluate Division | Graph-based division queries | | |
-| 684 | Redundant Connection | Find edge that creates cycle | | |
+| 684 | Redundant Connection | Find edge that creates cycle | Y | |
 | 743 | Network Delay Time | Shortest path in weighted graph | Y | |
 
 ## Dynamic Programming
