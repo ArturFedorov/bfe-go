@@ -1,5 +1,16 @@
 package climbing_stairs
 
 func climbStairs(n int) int {
-	return 0
+	if n <= 2 {
+		return n
+	}
+	prev1, prev2 := 1, 2
+
+	for i := 3; i <= n; i++ {
+		curr := prev1 + prev2
+		prev1 = prev2
+		prev2 = curr
+	}
+
+	return prev2
 }
