@@ -78,7 +78,7 @@
 | 44 | Wildcard Matching | Pattern matching with ? and * | | |
 | 55 | Jump Game | Can you reach the last index | | |
 | 62 | Unique Paths | Count paths in a grid | | |
-| 70 | Climbing Stairs | Ways to climb n stairs | | |
+| 70 | Climbing Stairs | Ways to climb n stairs | Y | |
 | 139 | Word Break | Segment string into dictionary words | | |
 | 198 | House Robber | Max money without robbing adjacent | | |
 | 312 | Burst Balloons | Max coins from bursting balloons | | |
@@ -146,7 +146,7 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 208 | Implement Trie | Prefix tree implementation | | |
+| 208 | Implement Trie | Prefix tree implementation | Y | |
 | 211 | Design Add and Search Words | Trie with wildcard search | | |
 | 212 | Word Search II | Find words in grid using trie | | |
 | 642 | Design Search Autocomplete System | Autocomplete with trie | | |
