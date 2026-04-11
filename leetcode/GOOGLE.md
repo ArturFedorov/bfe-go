@@ -80,7 +80,7 @@
 | 62 | Unique Paths | Count paths in a grid | | |
 | 70 | Climbing Stairs | Ways to climb n stairs | Y | |
 | 139 | Word Break | Segment string into dictionary words | | |
-| 198 | House Robber | Max money without robbing adjacent | | |
+| 198 | House Robber | Max money without robbing adjacent | ✅ | |
 | 312 | Burst Balloons | Max coins from bursting balloons | | |
 | 322 | Coin Change | Min coins to make amount | | |
 | 410 | Split Array Largest Sum | Minimize largest sum among splits | | |
