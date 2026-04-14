@@ -80,9 +80,9 @@
 | 62 | Unique Paths | Count paths in a grid | | |
 | 70 | Climbing Stairs | Ways to climb n stairs | Y | |
 | 139 | Word Break | Segment string into dictionary words | | |
-| 198 | House Robber | Max money without robbing adjacent | ✅ | |
+| 198 | House Robber | Max money without robbing adjacent | Y | |
 | 312 | Burst Balloons | Max coins from bursting balloons | | |
-| 322 | Coin Change | Min coins to make amount | | |
+| 322 | Coin Change | Min coins to make amount | Y | |
 | 410 | Split Array Largest Sum | Minimize largest sum among splits | | |
 | 1235 | Maximum Profit in Job Scheduling | Max profit from non-overlapping jobs | | |
 
@@ -137,7 +137,7 @@
 |---|-------|-------------|:------:|------------|
 | 23 | Merge k Sorted Lists | Merge k lists using heap | Y | |
 | 295 | Find Median from Data Stream | Two heaps for running median | | |
-| 347 | Top K Frequent Elements | K most frequent elements | | |
+| 347 | Top K Frequent Elements | K most frequent elements | Y | |
 | 621 | Task Scheduler | Min intervals to finish tasks | | |
 | 703 | Kth Largest Element in a Stream | Maintain kth largest using min-heap | Y | |
 | 857 | Minimum Cost to Hire K Workers | Min cost for k workers | | |
