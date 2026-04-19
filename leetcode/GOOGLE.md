@@ -65,7 +65,7 @@
 | 207 | Course Schedule | Detect cycle in directed graph | Y | |
 | 210 | Course Schedule II | Topological sort of courses | Y | |
 | 269 | Alien Dictionary | Derive order of alien alphabet | | |
-| 399 | Evaluate Division | Graph-based division queries | | |
+| 399 | Evaluate Division | Graph-based division queries | Y | |
 | 684 | Redundant Connection | Find edge that creates cycle | Y | |
 | 743 | Network Delay Time | Shortest path in weighted graph | Y | |
 
@@ -91,7 +91,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 4 | Median of Two Sorted Arrays | Find median of two sorted arrays | | |
-| 33 | Search in Rotated Sorted Array | Search in rotated array | | |
+| 33 | Search in Rotated Sorted Array | Search in rotated array | Y | |
 | 34 | Find First and Last Position | Range of target in sorted array | | |
 | 153 | Find Minimum in Rotated Sorted Array | Min element in rotated array | | |
 | 410 | Split Array Largest Sum | Binary search on answer | | |
@@ -102,7 +102,7 @@
 |---|-------|-------------|:------:|------------|
 | 146 | LRU Cache | Design least recently used cache | Y | |
 | 155 | Min Stack | Stack with O(1) getMin | Y | |
-| 295 | Find Median from Data Stream | Median in a stream of numbers | | |
+| 295 | Find Median from Data Stream | Median in a stream of numbers | Y | |
 | 341 | Flatten Nested List Iterator | Iterator for nested integer list | | |
 | 359 | Logger Rate Limiter | Rate limit log messages | | |
 | 362 | Design Hit Counter | Count hits in past 5 minutes | | |
@@ -136,9 +136,9 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 23 | Merge k Sorted Lists | Merge k lists using heap | Y | |
-| 295 | Find Median from Data Stream | Two heaps for running median | | |
+| 295 | Find Median from Data Stream | Two heaps for running median | Y | |
 | 347 | Top K Frequent Elements | K most frequent elements | Y | |
-| 621 | Task Scheduler | Min intervals to finish tasks | | |
+| 621 | Task Scheduler | Min intervals to finish tasks | Y | |
 | 703 | Kth Largest Element in a Stream | Maintain kth largest using min-heap | Y | |
 | 857 | Minimum Cost to Hire K Workers | Min cost for k workers | | |
 
