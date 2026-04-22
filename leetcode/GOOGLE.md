@@ -108,7 +108,7 @@
 | 362 | Design Hit Counter | Count hits in past 5 minutes | | |
 | 380 | Insert Delete GetRandom O(1) | Randomized set operations | Y | |
 | 588 | Design In-Memory File System | Simulate a file system | | |
-| 642 | Design Search Autocomplete System | Autocomplete with history | | |
+| 642 | Design Search Autocomplete System | Autocomplete with history | Y | |
 | 703 | Kth Largest Element in a Stream | Maintain kth largest in stream | Y | |
 | 706 | Design HashMap | Design a HashMap without built-in hash libraries | Y | |
 
@@ -149,4 +149,4 @@
 | 208 | Implement Trie | Prefix tree implementation | Y | |
 | 211 | Design Add and Search Words | Trie with wildcard search | | |
 | 212 | Word Search II | Find words in grid using trie | | |
-| 642 | Design Search Autocomplete System | Autocomplete with trie | | |
+| 642 | Design Search Autocomplete System | Autocomplete with trie | Y | |
