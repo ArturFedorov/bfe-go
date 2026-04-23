@@ -93,7 +93,7 @@
 | 4 | Median of Two Sorted Arrays | Find median of two sorted arrays | | |
 | 33 | Search in Rotated Sorted Array | Search in rotated array | Y | |
 | 34 | Find First and Last Position | Range of target in sorted array | | |
-| 153 | Find Minimum in Rotated Sorted Array | Min element in rotated array | | |
+| 153 | Find Minimum in Rotated Sorted Array | Min element in rotated array | Y | |
 | 410 | Split Array Largest Sum | Binary search on answer | | |
 
 ## Design
@@ -125,7 +125,7 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 39 | Combination Sum | Combos that sum to target | | |
+| 39 | Combination Sum | Combos that sum to target | Y | |
 | 46 | Permutations | All permutations of distinct nums | | |
 | 51 | N-Queens | Place N queens on board | | |
 | 79 | Word Search | Find word in character grid | | |
