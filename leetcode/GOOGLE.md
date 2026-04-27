@@ -44,10 +44,10 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 98 | Validate Binary Search Tree | Check if tree is valid BST | | |
+| 98 | Validate Binary Search Tree | Check if tree is valid BST | Y | |
 | 100 | Same Tree | Check if two trees are identical | | |
 | 124 | Binary Tree Maximum Path Sum | Max path sum in binary tree | | |
-| 199 | Binary Tree Right Side View | Nodes visible from right side | | |
+| 199 | Binary Tree Right Side View | Nodes visible from right side | Y | |
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
 | 235 | Lowest Common Ancestor of a BST | Find LCA in BST | | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Find LCA in binary tree | Y | |
