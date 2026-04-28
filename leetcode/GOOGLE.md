@@ -59,7 +59,7 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 127 | Word Ladder | Shortest transformation sequence | | |
+| 127 | Word Ladder | Shortest transformation sequence | Y | |
 | 133 | Clone Graph | Deep copy a graph | Y | |
 | 200 | Number of Islands | Count islands in a grid | | |
 | 207 | Course Schedule | Detect cycle in directed graph | Y | |
