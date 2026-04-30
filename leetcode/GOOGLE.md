@@ -9,7 +9,7 @@
 | 41 | First Missing Positive | Find smallest missing positive integer | | |
 | 42 | Trapping Rain Water | Calculate water trapped between bars | | |
 | 49 | Group Anagrams | Group strings that are anagrams | Y | |
-| 128 | Longest Consecutive Sequence | Find longest consecutive elements sequence | | |
+| 128 | Longest Consecutive Sequence | Find longest consecutive elements sequence | Y | |
 | 238 | Product of Array Except Self | Product of all elements except self | Y | |
 | 560 | Subarray Sum Equals K | Count subarrays with sum equal to k | Y | |
 | 974 | Subarray Sums Divisible by K | Count subarrays with sum divisible by k | Y | |
@@ -46,7 +46,7 @@
 |---|-------|-------------|:------:|------------|
 | 98 | Validate Binary Search Tree | Check if tree is valid BST | Y | |
 | 100 | Same Tree | Check if two trees are identical | | |
-| 124 | Binary Tree Maximum Path Sum | Max path sum in binary tree | | |
+| 124 | Binary Tree Maximum Path Sum | Max path sum in binary tree | Y | |
 | 199 | Binary Tree Right Side View | Nodes visible from right side | Y | |
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
 | 235 | Lowest Common Ancestor of a BST | Find LCA in BST | | |
