@@ -19,7 +19,7 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 3 | Longest Substring Without Repeating Characters | Longest substring with unique chars | | |
+| 3 | Longest Substring Without Repeating Characters | Longest substring with unique chars | Y | |
 | 5 | Longest Palindromic Substring | Find longest palindromic substring | Y | |
 | 17 | Letter Combinations of a Phone Number | All letter combos from phone digits | | |
 | 20 | Valid Parentheses | Check if brackets are balanced | Y | |
