@@ -51,7 +51,7 @@
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
 | 235 | Lowest Common Ancestor of a BST | Find LCA in BST | | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Find LCA in binary tree | Y | |
-| 297 | Serialize and Deserialize Binary Tree | Encode/decode binary tree | | |
+| 297 | Serialize and Deserialize Binary Tree | Encode/decode binary tree | Y | |
 | 543 | Diameter of Binary Tree | Longest path between any two nodes | | |
 | 951 | Flip Equivalent Binary Trees | Check if trees are flip equivalent | | |
 
@@ -74,7 +74,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 10 | Regular Expression Matching | Pattern matching with . and * | | |
-| 22 | Generate Parentheses | Generate all valid parentheses combos | | |
+| 22 | Generate Parentheses | Generate all valid parentheses combos | Y | |
 | 44 | Wildcard Matching | Pattern matching with ? and * | | |
 | 55 | Jump Game | Can you reach the last index | | |
 | 62 | Unique Paths | Count paths in a grid | | |
