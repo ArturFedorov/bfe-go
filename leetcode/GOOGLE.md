@@ -23,7 +23,7 @@
 | 5 | Longest Palindromic Substring | Find longest palindromic substring | Y | |
 | 17 | Letter Combinations of a Phone Number | All letter combos from phone digits | | |
 | 20 | Valid Parentheses | Check if brackets are balanced | Y | |
-| 76 | Minimum Window Substring | Smallest window containing all chars | | |
+| 76 | Minimum Window Substring | Smallest window containing all chars | Y | |
 | 409 | Longest Palindrome | Longest palindrome from given letters | | |
 | 438 | Find All Anagrams in a String | Find all anagram start indices | | |
 | 681 | Next Closest Time | Next closest time using existing digits | | |
@@ -45,7 +45,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 98 | Validate Binary Search Tree | Check if tree is valid BST | Y | |
-| 100 | Same Tree | Check if two trees are identical | | |
+| 100 | Same Tree | Check if two trees are identical | Y | |
 | 124 | Binary Tree Maximum Path Sum | Max path sum in binary tree | Y | |
 | 199 | Binary Tree Right Side View | Nodes visible from right side | Y | |
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
@@ -76,7 +76,7 @@
 | 10 | Regular Expression Matching | Pattern matching with . and * | | |
 | 22 | Generate Parentheses | Generate all valid parentheses combos | Y | |
 | 44 | Wildcard Matching | Pattern matching with ? and * | | |
-| 55 | Jump Game | Can you reach the last index | | |
+| 55 | Jump Game | Can you reach the last index | Y | |
 | 62 | Unique Paths | Count paths in a grid | | |
 | 70 | Climbing Stairs | Ways to climb n stairs | Y | |
 | 139 | Word Break | Segment string into dictionary words | | |
