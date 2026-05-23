@@ -49,7 +49,7 @@
 | 124 | Binary Tree Maximum Path Sum | Max path sum in binary tree | Y | |
 | 199 | Binary Tree Right Side View | Nodes visible from right side | Y | |
 | 226 | Invert Binary Tree | Mirror a binary tree | | |
-| 235 | Lowest Common Ancestor of a BST | Find LCA in BST | | |
+| 235 | Lowest Common Ancestor of a BST | Find LCA in BST | Y | |
 | 236 | Lowest Common Ancestor of a Binary Tree | Find LCA in binary tree | Y | |
 | 297 | Serialize and Deserialize Binary Tree | Encode/decode binary tree | Y | |
 | 543 | Diameter of Binary Tree | Longest path between any two nodes | | |

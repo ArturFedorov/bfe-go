@@ -7,5 +7,17 @@ type TreeNode struct {
 }
 
 func lowestCommonAncestorBST(root, p, q *TreeNode) *TreeNode {
-	return nil
+	if root == nil {
+		return nil
+	}
+
+	if p.Val < root.Val && q.Val < root.Val {
+		return lowestCommonAncestorBST(root.Left, p, q)
+	}
+
+	if p.Val > root.Val && q.Val > root.Val {
+		return lowestCommonAncestorBST(root.Right, p, q)
+	}
+
+	return root
 }
