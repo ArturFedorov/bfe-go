@@ -21,7 +21,7 @@
 |---|-------|-------------|:------:|------------|
 | 3 | Longest Substring Without Repeating Characters | Longest substring with unique chars | Y | |
 | 5 | Longest Palindromic Substring | Find longest palindromic substring | Y | |
-| 17 | Letter Combinations of a Phone Number | All letter combos from phone digits | | |
+| 17 | Letter Combinations of a Phone Number | All letter combos from phone digits | Y | |
 | 20 | Valid Parentheses | Check if brackets are balanced | Y | |
 | 76 | Minimum Window Substring | Smallest window containing all chars | Y | |
 | 409 | Longest Palindrome | Longest palindrome from given letters | | |
@@ -147,6 +147,6 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 208 | Implement Trie | Prefix tree implementation | Y | |
-| 211 | Design Add and Search Words | Trie with wildcard search | | |
+| 211 | Design Add and Search Words | Trie with wildcard search | Y | |
 | 212 | Word Search II | Find words in grid using trie | | |
 | 642 | Design Search Autocomplete System | Autocomplete with trie | Y | |
