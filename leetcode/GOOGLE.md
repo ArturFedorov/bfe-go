@@ -116,8 +116,8 @@
 
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
-| 56 | Merge Intervals | Merge overlapping intervals | | |
-| 57 | Insert Interval | Insert and merge intervals | | |
+| 56 | Merge Intervals | Merge overlapping intervals | Y | |
+| 57 | Insert Interval | Insert and merge intervals | Y | |
 | 253 | Meeting Rooms II | Min meeting rooms required | | |
 | 759 | Employee Free Time | Common free time across schedules | | |
 
@@ -126,7 +126,7 @@
 | # | Title | Description | Solved | Confidence |
 |---|-------|-------------|:------:|------------|
 | 39 | Combination Sum | Combos that sum to target | Y | |
-| 46 | Permutations | All permutations of distinct nums | | |
+| 46 | Permutations | All permutations of distinct nums | Y | |
 | 51 | N-Queens | Place N queens on board | | |
 | 79 | Word Search | Find word in character grid | | |
 | 489 | Robot Room Cleaner | Clean all rooms with robot | | |
