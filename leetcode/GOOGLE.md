@@ -77,9 +77,9 @@
 | 22 | Generate Parentheses | Generate all valid parentheses combos | Y | |
 | 44 | Wildcard Matching | Pattern matching with ? and * | | |
 | 55 | Jump Game | Can you reach the last index | Y | |
-| 62 | Unique Paths | Count paths in a grid | | |
+| 62 | Unique Paths | Count paths in a grid | Y | |
 | 70 | Climbing Stairs | Ways to climb n stairs | Y | |
-| 139 | Word Break | Segment string into dictionary words | | |
+| 139 | Word Break | Segment string into dictionary words | Y | |
 | 198 | House Robber | Max money without robbing adjacent | Y | |
 | 312 | Burst Balloons | Max coins from bursting balloons | | |
 | 322 | Coin Change | Min coins to make amount | Y | |
